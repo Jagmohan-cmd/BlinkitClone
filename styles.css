@@ -145,6 +145,7 @@ element.style {
 
 .my-categories {
     width: 85%;
+    /* border: 1px solid black; */
 }
 
 .my-container {
@@ -296,4 +297,12 @@ element.style {
     margin-top: 3%;
 }
 
+.lilmRt{
+    text-align: center;
+    justify-content: center;
+}
+
+#google-play{
+    margin-top: -15px;
+}
 
